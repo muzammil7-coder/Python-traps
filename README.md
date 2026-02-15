@@ -4,6 +4,11 @@ A collection of tricky Python behaviors, common pitfalls, and gotchas that can c
 ## Description
 This repository demonstrates unusual or surprising behavior in Python, including how certain functions, operators, or data structures might behave unexpectedly.
 
+Coming soon 🔥
+all of you will see the good python traps. 
+Stay tuned!!!!
+
+
 ## Contents
 - Examples of tricky Python code
 - Explanations of why they behave that way
